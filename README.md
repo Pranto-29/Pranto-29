@@ -152,43 +152,13 @@ https://github.com/Pranto-29/Fribase-Projects
 
 ---
 
-# 📊 GitHub Stats
 
-<p align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Pranto-29&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Pranto-29&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
 
 # 💻 Most Used Languages
 
 <p align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranto-29&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 GitHub Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranto-29&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophy
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Pranto-29&theme=tokyonight&no-frame=true&margin-w=15"/>
 
 </p>
 
