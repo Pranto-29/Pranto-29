@@ -1,59 +1,72 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF512F,100:DD2476&height=220&section=header&text=Pranta%20Malakar&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f172a,30:2563eb,70:7c3aed,100:ec4899&text=Pranta%20Malakar&fontColor=ffffff&fontSize=50&fontAlignY=38&desc=Frontend%20Web%20Developer&descAlignY=58&animation=fadeIn"/>
 </p>
 
 <h1 align="center">Hi 👋 I'm Pranta Malakar</h1>
 
-<h3 align="center">
-Frontend Web Developer • React Learner • Diploma in Computer Science Technology
-</h3>
+<p align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Frontend+Web+Developer;React.js+Developer;Firebase+Enthusiast;Always+Learning+New+Things;Welcome+To+My+GitHub+Profile"/>
+
+</p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=FF4B4B&center=true&vCenter=true&width=650&lines=Frontend+Web+Developer;React.js+Learner;Firebase+Enthusiast;Always+Learning+New+Technologies" />
+
+🎓 Diploma in Computer Science Technology (Final Semester)
+
+💻 Frontend Web Developer
+
+🚀 Passionate about Modern Web Development
+
 </p>
 
 ---
 
 # 👨‍💻 About Me
 
-🎓 Diploma in Computer Science Technology (Final Semester)
+- 🎓 Diploma in Computer Science Technology (Final Semester)
 
-💻 Passionate Frontend Web Developer
+- 💻 Frontend Web Developer
 
-🌱 Currently Learning
+- 🌱 Currently Learning
+  - React.js
+  - Firebase
+  - Node.js
+  - Express.js
+  - MongoDB
 
-- React.js
-- Next.js
-- Firebase
-- MongoDB
+- 🎯 Goal
+  - Become a Professional MERN Stack Developer
 
-🚀 Love Building Responsive Websites
-
-📍 Moulvibazar, Sylhet, Bangladesh
+- 📍 Moulvibazar, Sylhet, Bangladesh
 
 ---
 
 # 🌐 Portfolio
 
-🔗 **https://dancing-cupcake-9c7f0a.netlify.app/**
+### 🌍 Live Portfolio
+
+https://dancing-cupcake-9c7f0a.netlify.app/
 
 ---
 
-# 📫 Contact Me
+# 📫 Contact
 
-📧 Email:
-**23pranto729@gmail.com**
+📧 Email
 
-💼 LinkedIn:
-**https://www.linkedin.com/in/pranta-malakar/**
+23pranto729@gmail.com
+
+💼 LinkedIn
+
+https://www.linkedin.com/in/pranta-malakar/
 
 ---
 
-# 🚀 Skills
+# 🚀 Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,react,nextjs,firebase,mongodb,nodejs,express,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,react,firebase,nodejs,express,mongodb,git,github,vscode"/>
 
 </p>
 
@@ -71,60 +84,126 @@ Frontend Web Developer • React Learner • Diploma in Computer Science Technol
 
 ---
 
-# 🔥 GitHub Streak
+# 🚀 Featured Projects
+
+## 🩸 LifeDrop — Blood Donation Management System
+
+Full Stack Blood Donation Platform
+
+**Tech**
+
+React • Firebase • Express • MongoDB • Tailwind CSS
+
+🔗 https://github.com/Pranto-29/blood-Project
+
+---
+
+## 🌱 GreenNext — Plant Management System
+
+Modern Plant Management Website
+
+**Tech**
+
+React • Firebase • MongoDB • Express
+
+🔗 https://github.com/Pranto-29/GreenNext-Project
+
+---
+
+## 🌳 Tree Plantation Management System
+
+Responsive Tree Plantation Website
+
+**Tech**
+
+React • Tailwind CSS
+
+🔗 https://github.com/Pranto-29/Assiment-8
+
+---
+
+## 🍽 Smart Food Counter
+
+Food Management Web App
+
+**Tech**
+
+React • JavaScript • Tailwind CSS
+
+🔗 https://github.com/Pranto-29/Assiment-10
+
+---
+
+## 🔐 Firebase Authentication System
+
+Authentication with Firebase
+
+**Tech**
+
+React • Firebase
+
+🔗 https://github.com/Pranto-29/Fribase-Projects
+
+---
+
+## 💼 Personal Portfolio
+
+Modern Responsive Portfolio Website
+
+🌍 Live
+
+https://dancing-cupcake-9c7f0a.netlify.app/
+
+---
+
+# 📚 Currently Learning
+
+✔ React.js
+
+✔ Firebase
+
+✔ Express.js
+
+✔ MongoDB
+
+✔ REST API
+
+✔ JWT Authentication
+
+---
+
+# 🎯 Career Goal
+
+✔ Frontend Developer
+
+✔ MERN Stack Developer
+
+✔ Open Source Contributor
+
+✔ Software Engineer
+
+---
+
+# 💬 Quote
+
+> "Success is built one commit at a time."
+
+---
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=Pranto-29&theme=tokyonight"/>
+⭐ Thanks for visiting my GitHub Profile ⭐
 
 </p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Pranto-29&theme=tokyonight&row=1&column=6"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranto-29&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 👀 Visitor Count
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Pranto-29&label=Profile%20Views&color=ff4b4b&style=for-the-badge"/>
-
-</p>
-
----
-
-# 💡 Quote
-
-> "Success comes from consistency, patience, and continuous learning."
-
----
-
-<h3 align="center">
-
-⭐ Thank you for visiting my profile ⭐
-
-</h3>
 
 <p align="center">
 
 Made with ❤️ by Pranta Malakar
+
+</p>
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f172a,30:2563eb,70:7c3aed,100:ec4899"/>
 
 </p>
