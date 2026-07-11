@@ -72,15 +72,7 @@ https://www.linkedin.com/in/pranta-malakar/
 
 ---
 
-# 📊 GitHub Stats
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Pranto-29&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranto-29&layout=compact&theme=tokyonight"/>
-
-</p>
 
 ---
 
