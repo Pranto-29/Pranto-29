@@ -1,50 +1,64 @@
-<p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f172a,30:2563eb,70:7c3aed,100:ec4899&text=Pranta%20Malakar&fontColor=ffffff&fontSize=50&fontAlignY=38&desc=Frontend%20Web%20Developer&descAlignY=58&animation=fadeIn"/>
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0F172A,20:1E3A8A,40:2563EB,60:7C3AED,80:A855F7,100:EC4899&text=Pranta%20Malakar&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=Frontend%20Web%20Developer%20•%20React.js%20•%20MERN%20Stack%20Learner&descAlignY=60&descSize=22&animation=fadeIn"/>
+
+# Hi 👋 I'm Pranta Malakar
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=850&lines=Frontend+Web+Developer;React.js+Developer;MERN+Stack+Learner;Passionate+About+Modern+Web+Development;Always+Learning+New+Things"/>
+
+<p>
+<a href="https://github.com/Pranto-29">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/pranta-malakar/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:23pranto729@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://dancing-cupcake-9c7f0a.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
 </p>
 
-<h1 align="center">Hi 👋 I'm Pranta Malakar</h1>
+<img src="https://komarev.com/ghpvc/?username=Pranto-29&label=Profile+Views&color=2563EB&style=for-the-badge"/>
 
-<p align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Frontend+Web+Developer;React.js+Developer;Firebase+Enthusiast;Always+Learning+New+Things;Welcome+To+My+GitHub+Profile"/>
-
-</p>
-
-<p align="center">
-
-🎓 Diploma in Computer Science Technology (Final Semester)
-
-💻 Frontend Web Developer
-
-🚀 Passionate about Modern Web Development
-
-</p>
+</div>
 
 ---
 
 # 👨‍💻 About Me
 
-- 🎓 Diploma in Computer Science Technology (Final Semester)
+🎓 Diploma in Computer Science Technology *(Final Semester)*
 
-- 💻 Frontend Web Developer
+💻 Frontend Web Developer
 
-- 🌱 Currently Learning
-  - React.js
-  - Firebase
-  - Node.js
-  - Express.js
-  - MongoDB
+🚀 Passionate about building modern, responsive and user-friendly web applications.
 
-- 🎯 Goal
-  - Become a Professional MERN Stack Developer
+🌱 **Currently Learning**
 
-- 📍 Moulvibazar, Sylhet, Bangladesh
+- React.js
+- Firebase
+- Node.js
+- Express.js
+- MongoDB
+- JWT Authentication
+
+🎯 **Career Goal**
+
+Become a Professional MERN Stack Developer.
+
+📍 Moulvibazar, Sylhet, Bangladesh
 
 ---
 
 # 🌐 Portfolio
 
-### 🌍 Live Portfolio
+### 🔗 Live Website
 
 https://dancing-cupcake-9c7f0a.netlify.app/
 
@@ -52,13 +66,17 @@ https://dancing-cupcake-9c7f0a.netlify.app/
 
 # 📫 Contact
 
-📧 Email
+📧 **Email**
 
 23pranto729@gmail.com
 
-💼 LinkedIn
+💼 **LinkedIn**
 
 https://www.linkedin.com/in/pranta-malakar/
+
+🐙 **GitHub**
+
+https://github.com/Pranto-29
 
 ---
 
@@ -66,13 +84,9 @@ https://www.linkedin.com/in/pranta-malakar/
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,react,firebase,nodejs,express,mongodb,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,react,firebase,nodejs,express,mongodb,git,github,vscode,figma"/>
 
 </p>
-
----
-
-
 
 ---
 
@@ -80,122 +94,145 @@ https://www.linkedin.com/in/pranta-malakar/
 
 ## 🩸 LifeDrop — Blood Donation Management System
 
-Full Stack Blood Donation Platform
-
-**Tech**
+**Tech Stack**
 
 React • Firebase • Express • MongoDB • Tailwind CSS
 
-🔗 https://github.com/Pranto-29/blood-Project
+🔗 Repository
+
+https://github.com/Pranto-29/blood-Project
 
 ---
 
 ## 🌱 GreenNext — Plant Management System
 
-Modern Plant Management Website
+**Tech Stack**
 
-**Tech**
+React • Firebase • Express • MongoDB
 
-React • Firebase • MongoDB • Express
+🔗 Repository
 
-🔗 https://github.com/Pranto-29/GreenNext-Project
+https://github.com/Pranto-29/GreenNext-Project
 
 ---
 
 ## 🌳 Tree Plantation Management System
 
-Responsive Tree Plantation Website
-
-**Tech**
+**Tech Stack**
 
 React • Tailwind CSS
 
-🔗 https://github.com/Pranto-29/Assiment-8
+🔗 Repository
+
+https://github.com/Pranto-29/Assiment-8
 
 ---
 
 ## 🍽 Smart Food Counter
 
-Food Management Web App
-
-**Tech**
+**Tech Stack**
 
 React • JavaScript • Tailwind CSS
 
-🔗 https://github.com/Pranto-29/Assiment-10
+🔗 Repository
+
+https://github.com/Pranto-29/Assiment-10
 
 ---
 
 ## 🔐 Firebase Authentication System
 
-Authentication with Firebase
-
-**Tech**
+**Tech Stack**
 
 React • Firebase
 
-🔗 https://github.com/Pranto-29/Fribase-Projects
+🔗 Repository
+
+https://github.com/Pranto-29/Fribase-Projects
 
 ---
 
-## 💼 Personal Portfolio
+# 📊 GitHub Stats
 
-Modern Responsive Portfolio Website
+<p align="center">
 
-🌍 Live
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Pranto-29&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-https://dancing-cupcake-9c7f0a.netlify.app/
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Pranto-29&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 💻 Most Used Languages
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranto-29&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 GitHub Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranto-29&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophy
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Pranto-29&theme=tokyonight&no-frame=true&margin-w=15"/>
+
+</p>
 
 ---
 
 # 📚 Currently Learning
 
-✔ React.js
+✅ React.js
 
-✔ Firebase
+✅ Firebase Authentication
 
-✔ Express.js
+✅ Node.js
 
-✔ MongoDB
+✅ Express.js
 
-✔ REST API
+✅ MongoDB
 
-✔ JWT Authentication
+✅ REST API
+
+✅ JWT Authentication
 
 ---
 
 # 🎯 Career Goal
 
-✔ Frontend Developer
-
-✔ MERN Stack Developer
-
-✔ Open Source Contributor
-
-✔ Software Engineer
+- Frontend Developer
+- MERN Stack Developer
+- Open Source Contributor
+- Software Engineer
 
 ---
 
 # 💬 Quote
 
-> "Success is built one commit at a time."
+> **"Success is built one commit at a time." 🚀**
 
 ---
 
-<p align="center">
+<div align="center">
 
-⭐ Thanks for visiting my GitHub Profile ⭐
+### ⭐ Thanks for visiting my GitHub Profile ⭐
 
-</p>
+Made with ❤️ by **Pranta Malakar**
 
-<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0F172A,20:1E3A8A,40:2563EB,60:7C3AED,80:A855F7,100:EC4899"/>
 
-Made with ❤️ by Pranta Malakar
-
-</p>
-
-<p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f172a,30:2563eb,70:7c3aed,100:ec4899"/>
-
-</p>
+</div>
