@@ -19,7 +19,7 @@
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://dancing-cupcake-9c7f0a.netlify.app/">
+<a href="prantamalakar.netlify.app">
 <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
